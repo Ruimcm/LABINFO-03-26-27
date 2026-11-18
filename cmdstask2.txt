@@ -1,0 +1,11 @@
+    1  PWD
+    2  pwd
+    3  mv 139766 A139766
+    4  cd A139766
+    5  echo "Teste de LI 2026/2027" > README.md
+    6  cat README.md
+    7  cd . .
+    8  cd..
+    9  cd ..
+   10  pwd
+   11  history > cmdstask2.txt
