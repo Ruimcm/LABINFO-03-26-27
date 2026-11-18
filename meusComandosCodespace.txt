@@ -1,0 +1,57 @@
+=== Comandos do Codespace ===
+pwd
+git status
+git add
+git add .
+git status
+git add identificacao.txt
+git commit -m "Tarefa 1: adiciona o ficheiro de identificação"
+git push
+PWD
+pwd
+mv 139766 A139766
+cd A139766
+echo "Teste de LI 2026/2027" > README.md
+cat README.md
+cd . .
+cd..
+cd ..
+pwd
+history > cmdstask2.txt
+git add A139766/README.md cmdstask2.txt
+git status
+git commit -m "2.ª tarefa concluída"
+git push
+cd /workspaces/LABINFO-03-26-27
+pwd
+ls
+touch index.html
+code index.html
+git add index.html
+git status
+git commit -m "3.ª tarefa concluída"
+git push
+git pull --no-rebase --no-edit
+git push
+git add index.html
+git status
+git commit -m "4.ª tarefa concluída"
+git commit -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push
+git commit --amend -m "4.ª tarefa: adiciona navegação e conteúdo à página inicial"
+git push --force-with-lease
+git pull --no-rebase --no-edit
+cp index.html disciplina.html
+git add disciplina.html
+git status
+git commit -m "Cria disciplina.html a partir de index.html"
+git push
+cd /workspace/LABINFO-03-26-27
+cd /workspaces/LABINFO-03-26-27
+git pull --no-rebase --no-edit
+history > meusComandosCodespace.txt
+cat meusComandosCodespace.txt
+git add meusComandosCodespace.txt
+git status
+git commit -m "Tarefa 6: regista o histórico do Codespace"
+git push
